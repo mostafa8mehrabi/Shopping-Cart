@@ -1,0 +1,14 @@
+.account {
+  width: 50rem;
+  background: #b9e0ff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+  border-radius: 5px;
+  padding: 32px 0;
+  box-shadow: 0 0 25px 5px rgba(0, 0, 0, 0.2);
+}
+.account h2 {
+  color: #6c4ab6;
+}

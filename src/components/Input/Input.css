@@ -1,0 +1,25 @@
+.input {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  font-family: "Vazir";
+}
+
+::-webkit-input-placeholder {
+  /* Chrome/Opera/Safari */
+  font-family: "Vazir";
+}
+
+.input-element {
+  border: 1px solid #8d72e1;
+  background-color: #fff;
+  font-family: "Vazir";
+  padding: 2px;
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  border-radius: 3px;
+}
+.invalid {
+  border: 1px solid red;
+}

@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "MyFont";
+  src: local("MyFont"), url(./fonts/Vazirmatn-Regular.ttf) format("truetype");
+}
+.center {
+  font-family: "MyFont";
+  text-align: center;
+}

@@ -1,0 +1,35 @@
+.btn {
+  width: 5rem;
+  background: transparent;
+  border: none;
+  border-radius: 3px;
+  outline: none;
+  font: inherit;
+  color: #fff;
+  margin: 10px;
+  padding: 10px;
+}
+.Builder-btn {
+  background-color: #8d9eff;
+}
+.purchased-list {
+  background-color: #8d72e1;
+  width: 9rem;
+  outline: none;
+  border: none;
+  border-radius: 3px;
+  color: #fff;
+  font: inherit;
+  padding: 16px 32px;
+  margin-right: 3rem;
+}
+.success {
+  background-color: #388e3c;
+}
+.danger {
+  background-color: rgba(255, 0, 0, 0.811);
+}
+.submit {
+  background-color: #8d72e1;
+  margin-right: 25%;
+}
